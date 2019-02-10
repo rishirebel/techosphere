@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types'
 import React, { Component } from 'react'
 import logo from './t2.png';
-import logom from './tech1.png';
+import logom from './t3.png';
 import work from './work.jpg';
 import place from './place.jpg';
 import favicon from './favicon.png';
